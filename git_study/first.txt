@@ -4,3 +4,4 @@
  ・git commit　でローカルリポジトリにコミット
  ・git push　でgithubにpush
  ・vs codeでターミナルを開きました。
+ ・git rm　作成したファイルの削除
