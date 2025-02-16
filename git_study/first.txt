@@ -1,6 +1,6 @@
  Gitの練習です。
 
- ・git add
- ・git commitを追記しました。
- ・git pushを追記
+ ・git add. でステージングエリアへ追加
+ ・git commit　でローカルリポジトリにコミット
+ ・git push　でgithubにpush
  ・vs codeでターミナルを開きました。
