@@ -3,3 +3,4 @@
  ・git add
  ・git commitを追記しました。
  ・git pushを追記
+ ・vs codeでターミナルを開きました。
